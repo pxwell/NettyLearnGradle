@@ -1,7 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63fe13fc-bb7a-4481-9ec1-172b52bd6dea" name="Default Changelist" comment="" />
+    <list default="true" id="63fe13fc-bb7a-4481-9ec1-172b52bd6dea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/NettyLearnGradle-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/heartbeat/learn4/HeartBeatServer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/heartbeat/learn4/HeartBeatServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/heartbeat/learn4/HeartBeatServerHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/heartbeat/learn4/HeartBeatServerHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/http/learn1/TestHttpServerHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/http/learn1/TestServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/http/learn1/TestServerInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/client/ProtobufClient$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/client/ProtobufClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/client/ProtobufClientHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/entity/DataInfo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/entity/DataInfo$Father$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/entity/DataInfo$Father$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/entity/DataInfo$Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/entity/DataInfo$FatherOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/entity/DataInfo$Mather$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/entity/DataInfo$Mather$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/entity/DataInfo$Mather.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/entity/DataInfo$MatherOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/entity/DataInfo$MyMessage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/entity/DataInfo$MyMessage$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/entity/DataInfo$MyMessage$DataBodyCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/entity/DataInfo$MyMessage$DataType$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/entity/DataInfo$MyMessage$DataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/entity/DataInfo$MyMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/entity/DataInfo$MyMessageOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/entity/DataInfo$Student$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/entity/DataInfo$Student$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/entity/DataInfo$Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/entity/DataInfo$StudentOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/entity/DataInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/server/ProtobufServer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/server/ProtobufServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/rpc/learn6/server/ProtobufServerHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/socket/learn2/Socket1Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/socket/learn2/Socket1ClientHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/socket/learn2/Socket1ClientInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/socket/learn2/Socket1Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/socket/learn2/Socket1ServerHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/socket/learn2/Socket1ServerInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/socket/learn3/MyChatClient$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/socket/learn3/MyChatClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/socket/learn3/MyChatClientHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/socket/learn3/MyChatServer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/socket/learn3/MyChatServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/socket/learn3/MyChatServerHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/websocket/learn5/MyWebSocketHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/websocket/learn5/MyWebSocketServer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/pxwell/netty/websocket/learn5/MyWebSocketServer.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -23,7 +76,7 @@
     <session id="-802939679">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.35" value="1" />
@@ -123,7 +176,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/pxwell/netty/rpc/learn6/client/ProtobufClient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="111">
-              <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+              <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -588,9 +641,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="730" />
-    <option name="y" value="33" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="388" />
+    <option name="y" value="5" />
     <option name="width" value="845" />
     <option name="height" value="735" />
   </component>
@@ -612,11 +665,6 @@
             </path>
             <path>
               <item name="NettyLearnGradle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyLearnGradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NettyLearnGradle" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
@@ -629,7 +677,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566266661892" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566266961127" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../wqzhjg" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -756,12 +804,12 @@
       <workItem from="1566205517672" duration="3763000" />
       <workItem from="1566217092194" duration="1637000" />
       <workItem from="1566218798203" duration="786000" />
-      <workItem from="1566263575341" duration="2210000" />
+      <workItem from="1566263575341" duration="2591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48563000" />
+    <option name="totallyTimeSpent" value="48944000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -773,9 +821,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="388" y="5" width="845" height="735" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7970205" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7970205" visible="true" weight="0.42038217" />
       <window_info id="Structure" order="1" sideWeight="0.20297952" side_tool="true" weight="0.4700637" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -791,7 +839,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32933104" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.44425386" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" visible="true" weight="0.3545611" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" visible="true" weight="0.5328467" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.40137222" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -1223,7 +1271,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/pxwell/netty/rpc/learn6/client/ProtobufClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
-          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
