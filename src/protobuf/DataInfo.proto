@@ -1,0 +1,40 @@
+syntax = "proto2";
+package cn.pxwell.netty.rpc.learn6.entity;
+
+option java_package = "cn.pxwell.netty.rpc.learn6.entity";
+option java_outer_classname = "DataInfo";
+
+
+message MyMessage{
+    enum DataType{
+        StudentType = 1 ;
+        FatherType = 2  ;
+        MatherType = 3 ;
+    }
+
+    required DataType data_type = 1 ;
+
+    oneof dataBody{
+              Student student = 2 ;
+              Father father = 3 ;
+              Mather mather = 4 ;
+    }
+
+}
+
+
+message Student{
+        optional  string name = 1 ;
+        optional int32 age = 2;
+        optional string address = 3;
+}
+
+message Father{
+    optional string name = 1 ;
+    optional string city = 2 ;
+}
+
+message Mather{
+    optional string name = 1 ;
+    optional string city = 2 ;
+}
