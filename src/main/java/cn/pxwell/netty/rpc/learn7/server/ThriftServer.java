@@ -14,7 +14,6 @@ public class ThriftServer {
 
     public static void main(String[] args) throws TTransportException {
         TNonblockingServerSocket serverSocket = new TNonblockingServerSocket( 8899 );
-
         THsHaServer.Args arg = new THsHaServer.Args( serverSocket ).minWorkerThreads(2).maxWorkerThreads( 4 );
 
         PersonService.Processor<PersonServiceImpl> personServiceProcessor = new PersonService.Processor<>( new PersonServiceImpl() );
