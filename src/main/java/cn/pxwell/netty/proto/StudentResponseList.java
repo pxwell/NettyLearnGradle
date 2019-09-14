@@ -292,7 +292,7 @@ private static final long serialVersionUID = 0L;
   public static final class Builder extends
       com.google.protobuf.GeneratedMessageV3.Builder<Builder> implements
       // @@protoc_insertion_point(builder_implements:cn.pxwell.netty.proto.StudentResponseList)
-      cn.pxwell.netty.proto.StudentResponseListOrBuilder {
+      StudentResponseListOrBuilder {
     public static final com.google.protobuf.Descriptors.Descriptor
         getDescriptor() {
       return StudentProto.internal_static_cn_pxwell_netty_proto_StudentResponseList_descriptor;

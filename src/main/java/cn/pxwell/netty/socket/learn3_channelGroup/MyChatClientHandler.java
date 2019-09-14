@@ -1,4 +1,4 @@
-package cn.pxwell.netty.socket.learn3;
+package cn.pxwell.netty.socket.learn3_channelGroup;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;

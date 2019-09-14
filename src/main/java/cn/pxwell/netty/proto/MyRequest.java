@@ -76,13 +76,13 @@ private static final long serialVersionUID = 0L;
   }
   public static final com.google.protobuf.Descriptors.Descriptor
       getDescriptor() {
-    return cn.pxwell.netty.proto.StudentProto.internal_static_cn_pxwell_netty_proto_MyRequest_descriptor;
+    return StudentProto.internal_static_cn_pxwell_netty_proto_MyRequest_descriptor;
   }
 
   @Override
   protected FieldAccessorTable
       internalGetFieldAccessorTable() {
-    return cn.pxwell.netty.proto.StudentProto.internal_static_cn_pxwell_netty_proto_MyRequest_fieldAccessorTable
+    return StudentProto.internal_static_cn_pxwell_netty_proto_MyRequest_fieldAccessorTable
         .ensureFieldAccessorsInitialized(
             MyRequest.class, Builder.class);
   }
@@ -281,16 +281,16 @@ private static final long serialVersionUID = 0L;
   public static final class Builder extends
       com.google.protobuf.GeneratedMessageV3.Builder<Builder> implements
       // @@protoc_insertion_point(builder_implements:cn.pxwell.netty.proto.MyRequest)
-      cn.pxwell.netty.proto.MyRequestOrBuilder {
+      MyRequestOrBuilder {
     public static final com.google.protobuf.Descriptors.Descriptor
         getDescriptor() {
-      return cn.pxwell.netty.proto.StudentProto.internal_static_cn_pxwell_netty_proto_MyRequest_descriptor;
+      return StudentProto.internal_static_cn_pxwell_netty_proto_MyRequest_descriptor;
     }
 
     @Override
     protected FieldAccessorTable
         internalGetFieldAccessorTable() {
-      return cn.pxwell.netty.proto.StudentProto.internal_static_cn_pxwell_netty_proto_MyRequest_fieldAccessorTable
+      return StudentProto.internal_static_cn_pxwell_netty_proto_MyRequest_fieldAccessorTable
           .ensureFieldAccessorsInitialized(
               MyRequest.class, Builder.class);
     }
@@ -321,7 +321,7 @@ private static final long serialVersionUID = 0L;
     @Override
     public com.google.protobuf.Descriptors.Descriptor
         getDescriptorForType() {
-      return cn.pxwell.netty.proto.StudentProto.internal_static_cn_pxwell_netty_proto_MyRequest_descriptor;
+      return StudentProto.internal_static_cn_pxwell_netty_proto_MyRequest_descriptor;
     }
 
     @Override

@@ -1,7 +1,6 @@
-package cn.pxwell.netty.socket.learn3;
+package cn.pxwell.netty.socket.learn3_channelGroup;
 
 import cn.pxwell.netty.heartbeat.learn4.HeartBeatServerHandler;
-import cn.pxwell.netty.socket.learn2.Socket1ServerInitializer;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelInitializer;
